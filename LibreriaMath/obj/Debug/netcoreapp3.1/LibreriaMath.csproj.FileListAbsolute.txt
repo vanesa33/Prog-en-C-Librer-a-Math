@@ -1,0 +1,13 @@
+C:\Users\Ivanesa\source\repos\LibreriaMath\LibreriaMath\bin\Debug\netcoreapp3.1\LibreriaMath.exe
+C:\Users\Ivanesa\source\repos\LibreriaMath\LibreriaMath\bin\Debug\netcoreapp3.1\LibreriaMath.deps.json
+C:\Users\Ivanesa\source\repos\LibreriaMath\LibreriaMath\bin\Debug\netcoreapp3.1\LibreriaMath.runtimeconfig.json
+C:\Users\Ivanesa\source\repos\LibreriaMath\LibreriaMath\bin\Debug\netcoreapp3.1\LibreriaMath.runtimeconfig.dev.json
+C:\Users\Ivanesa\source\repos\LibreriaMath\LibreriaMath\bin\Debug\netcoreapp3.1\LibreriaMath.dll
+C:\Users\Ivanesa\source\repos\LibreriaMath\LibreriaMath\bin\Debug\netcoreapp3.1\LibreriaMath.pdb
+C:\Users\Ivanesa\source\repos\LibreriaMath\LibreriaMath\obj\Debug\netcoreapp3.1\LibreriaMath.csprojAssemblyReference.cache
+C:\Users\Ivanesa\source\repos\LibreriaMath\LibreriaMath\obj\Debug\netcoreapp3.1\LibreriaMath.AssemblyInfoInputs.cache
+C:\Users\Ivanesa\source\repos\LibreriaMath\LibreriaMath\obj\Debug\netcoreapp3.1\LibreriaMath.AssemblyInfo.cs
+C:\Users\Ivanesa\source\repos\LibreriaMath\LibreriaMath\obj\Debug\netcoreapp3.1\LibreriaMath.csproj.CoreCompileInputs.cache
+C:\Users\Ivanesa\source\repos\LibreriaMath\LibreriaMath\obj\Debug\netcoreapp3.1\LibreriaMath.dll
+C:\Users\Ivanesa\source\repos\LibreriaMath\LibreriaMath\obj\Debug\netcoreapp3.1\LibreriaMath.pdb
+C:\Users\Ivanesa\source\repos\LibreriaMath\LibreriaMath\obj\Debug\netcoreapp3.1\LibreriaMath.genruntimeconfig.cache
